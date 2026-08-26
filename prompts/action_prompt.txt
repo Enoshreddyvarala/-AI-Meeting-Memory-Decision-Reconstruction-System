@@ -1,0 +1,10 @@
+Extract all action items from the meeting transcript.
+For each action item, extract:
+- Task description
+- Owner / Assignee (if mentioned)
+- Due Date (if mentioned)
+- Priority (High, Medium, Low)
+- Timestamp or location in transcript
+
+Transcript:
+{transcript}

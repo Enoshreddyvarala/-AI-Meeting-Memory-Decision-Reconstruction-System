@@ -1,0 +1,10 @@
+You are an expert meeting analyst. Summarize the following meeting transcript into a structured summary.
+Focus on:
+1. Meeting Objective
+2. Key Discussion Points
+3. Main Decisions Made
+4. High-Level Action Items
+5. Identified Risks or Open Questions
+
+Transcript:
+{transcript}
